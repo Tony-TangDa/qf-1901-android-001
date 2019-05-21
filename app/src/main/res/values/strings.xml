@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">recyclerViewTest</string>
+
+    <string-array name="fruitName">
+        <item>apple</item>
+        <item>orange</item>
+        <item>banana</item>
+        <item>watermelon</item>
+        <item>pear</item>
+        <item>grape</item>
+        <item>pineapple</item>
+        <item>cherry</item>
+        <item>mango</item>
+    </string-array>
+
+</resources>
